@@ -8,7 +8,7 @@
 ## Projeto de Criação de Website
 <div align="center">
 
-### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> Persona pizza </a> 
+### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> PersonaPizza </a> 
 </div>
 
 </div>
